@@ -1,0 +1,203 @@
+{
+ "documents": 32,
+ "pages": 1338,
+ "chunks": 2739,
+ "words": 469339,
+ "median_chunk_tokens": 307,
+ "p95_chunk_tokens": 349,
+ "seconds": 4.8,
+ "per_file": [
+  {
+   "file": "abares_ag_commodities_2024-03.pdf",
+   "pages": 120,
+   "chunks": 263,
+   "words": 44713
+  },
+  {
+   "file": "abares_ag_commodities_2024-06.pdf",
+   "pages": 70,
+   "chunks": 143,
+   "words": 23868
+  },
+  {
+   "file": "abares_ag_commodities_2024-09.pdf",
+   "pages": 99,
+   "chunks": 191,
+   "words": 32708
+  },
+  {
+   "file": "abares_ag_commodities_2024-12.pdf",
+   "pages": 57,
+   "chunks": 106,
+   "words": 18618
+  },
+  {
+   "file": "abares_ag_commodities_2025-03.pdf",
+   "pages": 126,
+   "chunks": 315,
+   "words": 52079
+  },
+  {
+   "file": "abares_ag_commodities_2025-06.pdf",
+   "pages": 62,
+   "chunks": 121,
+   "words": 21490
+  },
+  {
+   "file": "abares_ag_commodities_2025-09.pdf",
+   "pages": 105,
+   "chunks": 215,
+   "words": 37491
+  },
+  {
+   "file": "abares_ag_commodities_2025-12.pdf",
+   "pages": 50,
+   "chunks": 95,
+   "words": 17367
+  },
+  {
+   "file": "abares_ag_commodities_2026-03.pdf",
+   "pages": 112,
+   "chunks": 239,
+   "words": 40982
+  },
+  {
+   "file": "abares_ag_commodities_2026-06.pdf",
+   "pages": 55,
+   "chunks": 125,
+   "words": 21378
+  },
+  {
+   "file": "abares_ag_commodities_2026-09.pdf",
+   "pages": 97,
+   "chunks": 197,
+   "words": 34575
+  },
+  {
+   "file": "abares_agricultural_lending_2024-25.pdf",
+   "pages": 22,
+   "chunks": 34,
+   "words": 6077
+  },
+  {
+   "file": "abares_climate_change_impacts_adaptation_farms.pdf",
+   "pages": 15,
+   "chunks": 36,
+   "words": 6239
+  },
+  {
+   "file": "abares_crop_report_2024-03.pdf",
+   "pages": 13,
+   "chunks": 20,
+   "words": 4124
+  },
+  {
+   "file": "abares_crop_report_2024-06.pdf",
+   "pages": 13,
+   "chunks": 26,
+   "words": 4679
+  },
+  {
+   "file": "abares_crop_report_2024-09.pdf",
+   "pages": 13,
+   "chunks": 26,
+   "words": 4728
+  },
+  {
+   "file": "abares_crop_report_2024-12.pdf",
+   "pages": 13,
+   "chunks": 24,
+   "words": 4728
+  },
+  {
+   "file": "abares_crop_report_2025-03.pdf",
+   "pages": 12,
+   "chunks": 22,
+   "words": 4185
+  },
+  {
+   "file": "abares_crop_report_2025-06.pdf",
+   "pages": 13,
+   "chunks": 24,
+   "words": 4221
+  },
+  {
+   "file": "abares_crop_report_2025-09.pdf",
+   "pages": 12,
+   "chunks": 24,
+   "words": 4349
+  },
+  {
+   "file": "abares_crop_report_2025-12.pdf",
+   "pages": 12,
+   "chunks": 24,
+   "words": 4282
+  },
+  {
+   "file": "abares_crop_report_2026-03.pdf",
+   "pages": 11,
+   "chunks": 19,
+   "words": 3825
+  },
+  {
+   "file": "abares_crop_report_2026-06.pdf",
+   "pages": 13,
+   "chunks": 26,
+   "words": 4856
+  },
+  {
+   "file": "abares_crop_report_2026-09.pdf",
+   "pages": 13,
+   "chunks": 27,
+   "words": 4734
+  },
+  {
+   "file": "abares_effects_of_drought_climate_variability_farms.pdf",
+   "pages": 11,
+   "chunks": 29,
+   "words": 4870
+  },
+  {
+   "file": "abares_farm_financial_performance_2026-06.pdf",
+   "pages": 25,
+   "chunks": 36,
+   "words": 6647
+  },
+  {
+   "file": "abares_farm_performance_and_climate.pdf",
+   "pages": 71,
+   "chunks": 101,
+   "words": 14533
+  },
+  {
+   "file": "abares_measuring_drought_risk.pdf",
+   "pages": 45,
+   "chunks": 88,
+   "words": 13181
+  },
+  {
+   "file": "abares_snapshot_ag_2023.pdf",
+   "pages": 13,
+   "chunks": 37,
+   "words": 6239
+  },
+  {
+   "file": "abares_snapshot_ag_2024.pdf",
+   "pages": 12,
+   "chunks": 35,
+   "words": 5750
+  },
+  {
+   "file": "abares_snapshot_ag_2025.pdf",
+   "pages": 15,
+   "chunks": 36,
+   "words": 5808
+  },
+  {
+   "file": "abares_snapshot_ag_2026.pdf",
+   "pages": 18,
+   "chunks": 35,
+   "words": 6015
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+# Install PyTorch first for your GPU, e.g.  pip install torch --index-url https://download.pytorch.org/whl/cu128
+transformers>=4.51
+accelerate
+sentence-transformers>=3.0
+faiss-cpu
+chromadb
+qdrant-client
+lancedb
+rank-bm25
+pymupdf
+gradio>=5.0
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
+requests
+playwright        # only for 06_screenshots.py

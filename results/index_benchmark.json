@@ -1,0 +1,65 @@
+{
+ "n_chunks": 2739,
+ "embedders": {
+  "minilm": {
+   "model": "sentence-transformers/all-MiniLM-L6-v2",
+   "dim": 384,
+   "seconds": 1.0,
+   "chunks_per_s": 2618.5,
+   "params_m": 23
+  },
+  "bge-base": {
+   "model": "BAAI/bge-base-en-v1.5",
+   "dim": 768,
+   "seconds": 2.0,
+   "chunks_per_s": 1385.1,
+   "params_m": 109
+  },
+  "qwen3-emb": {
+   "model": "Qwen/Qwen3-Embedding-0.6B",
+   "dim": 1024,
+   "seconds": 17.9,
+   "chunks_per_s": 152.9,
+   "params_m": 596
+  }
+ },
+ "stores": {
+  "FAISS Flat (exact)": {
+   "build_s": 0.0,
+   "query_ms": 0.285,
+   "recall@10": 1.0,
+   "disk_mb": 11.219
+  },
+  "FAISS HNSW": {
+   "build_s": 0.384,
+   "query_ms": 0.0,
+   "recall@10": 1.0,
+   "disk_mb": 11.963
+  },
+  "FAISS IVF-PQ": {
+   "build_s": 0.136,
+   "query_ms": 0.012,
+   "recall@10": 0.734,
+   "disk_mb": 1.372
+  },
+  "Chroma": {
+   "build_s": 1.965,
+   "query_ms": 1.052,
+   "recall@10": 0.998,
+   "disk_mb": 60.77
+  },
+  "Qdrant (local)": {
+   "build_s": 10.771,
+   "query_ms": 6.738,
+   "recall@10": 0.998,
+   "disk_mb": 28.156
+  },
+  "LanceDB": {
+   "build_s": 0.153,
+   "query_ms": 11.61,
+   "recall@10": 0.998,
+   "disk_mb": 11.266
+  }
+ },
+ "store_embedder": "qwen3-emb"
+}

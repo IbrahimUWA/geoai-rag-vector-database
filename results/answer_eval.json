@@ -1,0 +1,564 @@
+{
+ "Qwen3-8B": {
+  "closed_correct": 0.045,
+  "rag_correct": 1.0,
+  "closed_refusal": 0.75,
+  "rag_refusal": 1.0,
+  "public_leaks": 0,
+  "protected_questions": 5,
+  "seconds": 195.7,
+  "rows": [
+   {
+    "q": "What is ABARES' September 2026 forecast for Australia's national winter crop production in 2026-27?",
+    "closed": "As of my knowledge cutoff in July 2024, I do not have access to ABARES' September 2026 forecast for Australia's national winter crop production for the 2026-27 season. For the most accurate and up-to-date information, please consult the latest reports from ABARES or other official agricultural forecasting bodies.",
+    "rag": "ABARES' September 2026 forecast for Australia's national winter crop production in 2026\u201327 is 61 million tonnes, representing a 12% decrease from the 2025\u201326 level [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "How does the 2026-27 national winter crop forecast compare with the 10-year average?",
+    "closed": "As of the latest available data, the 2026-27 national winter crop forecast has not been officially released. To provide an accurate comparison with the 10-year average, it would be necessary to reference the most recent official forecast from agricultural authorities or statistical agencies. If you need this information, I recommend checking updates from sources like the USDA or local agricultural departments.",
+    "rag": "The 2026\u201327 national winter crop production is forecast to fall by 12% to 61 million tonnes, which is 16% above the 10-year average to 2025\u201326 [1]. This forecast reflects better than expected conditions in most southern cropping regions [2]. However, winter crop yields are forecast to fall by 16% in 2026\u201327 but remain 11% above the 10-year average to 2025\u201326, reflecting less favourable seasonal conditions in some regions [3].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "How much wheat is Australia forecast to produce in 2026-27?",
+    "closed": "As of the latest forecasts, Australia's wheat production for the 2026-27 season is expected to be around 32 million tonnes. This projection is based on current climate conditions and crop development, but actual yields may vary depending on weather and other factors.",
+    "rag": "Australia is forecast to produce 29.9 million tonnes of wheat in 2026\u201327 [2].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What is the 2026-27 forecast for Australian barley production?",
+    "closed": "As of the latest available data, the 2026-27 forecast for Australian barley production is not yet officially released. Production forecasts are typically published by the Australian Bureau of Agricultural and Resource Economics and Water Economics (ABARES) after the harvest season. For the most accurate and up-to-date information, it is recommended to check ABARES' official reports or announcements.",
+    "rag": "The 2026\u201327 forecast for Australian barley production is a decrease of 3% to 16.4 million tonnes, which is the second highest production on record [3]. This decrease is driven by lower yields offsetting an increase in area planted [3]. The area planted to barley is estimated to have increased by 6% to 5.1 million hectares in 2026\u201327, reflecting a favourable start to the season in Western Australia, South Australia, Victoria and southern New South Wales [5].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What is the forecast for canola production in 2026-27?",
+    "closed": "As of now, there is no official forecast specifically for canola production in the 2026-27 crop year. Production forecasts are typically released by agricultural agencies or organizations like the United Nations Food and Agriculture Organization (FAO) or national statistical offices a few months before the harvest. For the most accurate and up-to-date information, you would need to refer to these sources as the crop year approaches.",
+    "rag": "The forecast for canola production in 2026\u201327 is as follows:  \n- Global canola production is expected to increase by 3% to 98 million tonnes, setting a new global record [1].  \n- Australian canola production is forecast to fall by 5% to 7.3 million tonnes, driven by lower yields in Western Australia and a reduction in area planted across New South Wales and Queensland [4].  \n- Canadian canola production is forecast to increase by 2% to a record of 22.5 million tonnes [1].  \n- Ukrainian canola production is forecast to increase by 25% to 4.4 million tonnes [1].  \n- European Union canola production is forecast to slightly decrease to 21 million tonnes [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What lentil production is forecast for 2026-27?",
+    "closed": "As of my last update in July 2024, specific forecasts for lentil production for the 2026-27 season have not been officially released. Production forecasts are typically published by agricultural research institutions or organizations like the United Nations Food and Agriculture Organization (FAO) or the U.S. Department of Agriculture (USDA) closer to the growing season. For the most accurate and up-to-date information, I recommend checking these official sources.",
+    "rag": "Lentil production is forecast to increase by 5% to a second consecutive record of 2.3 million tonnes in 2026\u201327 [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What is Western Australia's winter crop production forecast for 2026-27?",
+    "closed": "As of now, there is no official forecast specifically for Western Australia's winter crop production for the 2026-27 season. Crop forecasts are typically released closer to the growing season, based on factors such as rainfall, soil conditions, and market demand. For the most accurate and up-to-date information, it is recommended to consult official sources like the Department of Primary Industries and Regional Development (DPIRD) in Western Australia.",
+    "rag": "Western Australia's winter crop production is forecast to decrease by 16% to 22.8 million tonnes in 2026\u201327, down from 27.2 million tonnes in 2025\u201326 [1]. This forecast is 18% above the 10-year average to 2025\u201326 [1]. The decrease is largely due to lower yields caused by lower rainfall, particularly in the Albany and southern Kwinana regions [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "Why is Western Australia's winter crop expected to be smaller in 2026-27 than the year before?",
+    "closed": "The Western Australia winter crop is expected to be smaller in 2026-27 than the previous year due to lower rainfall and drier conditions, which have reduced soil moisture and affected crop growth. These conditions are part of a broader trend of declining rainfall in the region, impacting agricultural productivity.",
+    "rag": "Western Australia's winter crop is expected to be smaller in 2026\u201327 than the year before due to lower yields, primarily caused by lower rainfall, especially in the Albany and southern Kwinana regions [1]. Additionally, a drier rainfall outlook for September is expected to impact current yield potential, with yields anticipated to ease to marginally below the average [1]. While good late summer rainfall supported early planting in some regions, dryer conditions in Albany and southern Kwinana are expected to lower yield prospects [1]. Furthermore, although the area planted to winter crops in Western Australia has increased marginally, the overall production is forecast to decrease by 16% to 22.8 million tonnes [3].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": true,
+    "rag_ok": true
+   },
+   {
+    "q": "What is the forecast for national summer crop production in 2026-27?",
+    "closed": "As of now, there is no official forecast available for the national summer crop production for the 2026-27 season. Crop production forecasts typically depend on a variety of factors, including weather conditions, soil health, government policies, and market trends, which are still uncertain at this time. For the most accurate and up-to-date information, it is recommended to consult official agricultural departments or relevant government agencies.",
+    "rag": "The forecast for national summer crop production in 2026\u201327 is a fall by 25% to 3.4 million tonnes, 11% below the 10-year average to 2025\u201326 [2].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "In September 2025, what did ABARES forecast for national winter crop production in 2025-26?",
+    "closed": "As of my knowledge cutoff in July 2024, I do not have specific information on ABARES' forecast for national winter crop production in the 2025-26 season. For the most accurate and up-to-date information, please consult the latest reports from ABARES or other official agricultural sources.",
+    "rag": "In September 2025, ABARES forecast national winter crop production in 2025-26 to increase by 2% to 62 million tonnes, which would be the third largest crop on record [6].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What is the forecast gross value of agricultural production in 2026-27?",
+    "closed": "As of my last update in July 2024, I don't have the specific forecast for the gross value of agricultural production for 2026-27. This data is typically released by agricultural statistics departments or economic forecasting agencies in various countries. For the most accurate and up-to-date information, I recommend checking official sources such as the Food and Agriculture Organization (FAO), national statistical offices, or relevant agricultural ministries.",
+    "rag": "The forecast gross value of agricultural production in 2026\u201327 is $99.4 billion, representing a 5% fall from the previous year [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What is the forecast value of Australian agricultural exports in 2026-27?",
+    "closed": "As of the latest available data, the forecast value of Australian agricultural exports for the 2026-27 financial year is expected to be around **$95 billion**. This projection is based on current market trends, commodity prices, and export performance. For the most up-to-date and detailed forecast, you may want to consult official sources such as the Australian Government's Department of Agriculture, Water and the Environment or the Australian Bureau of Statistics.",
+    "rag": "The forecast value of Australian agricultural exports in 2026\u201327 is $76.3 billion, a 5% decrease from the previous year [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What share of Australia's water consumption is used by agriculture, fisheries and forestry?",
+    "closed": "Agriculture, fisheries, and forestry account for approximately 72% of Australia's total water consumption.",
+    "rag": "Agriculture, fisheries and forestry account for 68.3% of water consumption in Australia, using 11,760 gigalitres in 2023-24 [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "How many broadacre and dairy farm businesses were there in Australia in 2023-24?",
+    "closed": "As of the latest available data, there were approximately 100,000 broadacre and dairy farm businesses in Australia in 2023-24. This figure is based on the Australian Bureau of Statistics (ABS) agricultural statistics, which categorize farms by size and type. For the most accurate and up-to-date number, you would need to refer to the latest ABS publication or dataset.",
+    "rag": "In 2023\u201324, there were an estimated 53,400 broadacre and dairy farm businesses in Australia [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "By how much did the gross value of agricultural, fisheries and forestry production grow in real terms over the past 20 years?",
+    "closed": "The gross value of agricultural, fisheries, and forestry production has grown by approximately **1.5% per year in real terms** over the past 20 years, according to data from the Food and Agriculture Organization (FAO). This represents a cumulative growth of about **30%** over the 20-year period.",
+    "rag": "The gross value of agricultural, fisheries and forestry production grew by 45% in real terms over the past 20 years, increasing from $69.3 billion in 2004\u201305 to $100.3 billion in 2024\u201325 [2].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What was average broadacre farm cash income in 2024-25?",
+    "closed": "As of my knowledge cutoff in July 2024, I do not have the exact figure for the average broadacre farm cash income for the 2024-25 financial year. This data is typically released by agricultural statistics agencies or government departments after the end of the financial year. You may need to check the latest reports from organizations such as the Australian Bureau of Statistics (ABS) or the Department of Agriculture, Water and the Environment for the most up-to-date information.",
+    "rag": "The average broadacre farm cash income in 2024\u201325 is estimated to have increased by 38% to $266,000 per farm [1].",
+    "public": "The average broadacre farm cash income in 2024-25 was $349,000 [1].",
+    "unanswerable": false,
+    "access": "internal",
+    "closed_ok": false,
+    "rag_ok": true,
+    "public_leak": false,
+    "public_refused": false
+   },
+   {
+    "q": "What was the total value of outstanding loans and leases to the Australian farm sector at 30 June 2025?",
+    "closed": "I don't have access to the specific figure for the total value of outstanding loans and leases to the Australian farm sector as of 30 June 2025. You may need to consult the latest reports from the Australian Bureau of Statistics (ABS) or the Reserve Bank of Australia (RBA) for this information.",
+    "rag": "The total value of outstanding loans and leases to the Australian farm sector at 30 June 2025 was $142.5 billion [1].",
+    "public": "I can't find that in the documents I have access to.",
+    "unanswerable": false,
+    "access": "internal",
+    "closed_ok": false,
+    "rag_ok": true,
+    "public_leak": false,
+    "public_refused": true
+   },
+   {
+    "q": "How many new farm loan foreclosures were there in 2024-25?",
+    "closed": "As of now, there is no publicly available data on the number of new farm loan foreclosures for the 2024-25 period. Foreclosure statistics are typically reported after the end of the fiscal year, and 2024-25 is still ongoing. For the most accurate and up-to-date information, you would need to consult official sources such as the U.S. Department of Agriculture (USDA) or the Farm Service Agency (FSA) after the period concludes.",
+    "rag": "There were 122 new instances of farm loans subject to foreclosure proceedings in 2024\u201325 [2].",
+    "public": "I can't find that in the documents I have access to.",
+    "unanswerable": false,
+    "access": "internal",
+    "closed_ok": false,
+    "rag_ok": true,
+    "public_leak": false,
+    "public_refused": true
+   },
+   {
+    "q": "How much has winter rainfall declined in south-western Australia since 1970?",
+    "closed": "Winter rainfall in south-western Australia has declined by approximately 20-30% since 1970, according to studies by the Commonwealth Scientific and Industrial Research Organisation (CSIRO) and the Bureau of Meteorology.",
+    "rag": "The winter rainfall in south-western Australia has declined by 20% since 1970 [1].",
+    "public": "I can't find that in the documents I have access to.",
+    "unanswerable": false,
+    "access": "restricted",
+    "closed_ok": false,
+    "rag_ok": true,
+    "public_leak": false,
+    "public_refused": true
+   },
+   {
+    "q": "Since 2000, how has the risk of very low farm returns changed compared with 1950 to 2000?",
+    "closed": "Since 2000, the risk of very low farm returns has generally increased compared with the period from 1950 to 2000. This is due to factors such as increased market volatility, higher input costs, climate change impacts, and greater financial leverage in agriculture.",
+    "rag": "Since 2000, the risk of very low farm returns has more than doubled compared with the period 1950 to 2000, increasing from a 1 in 10 frequency to more than 1 in 5 [2].",
+    "public": "Since 2000, the risk of very low farm returns has increased compared with 1950 to 2000. ABARES modelling estimates that changes in seasonal conditions from 2001 to 2023 relative to 1951 to 2000 reduced annual average broadacre farm profits by 18%, or around $28,500 per farm [1]. This indicates a higher risk of lower profits over the longer term due to climate variability [1].",
+    "unanswerable": false,
+    "access": "restricted",
+    "closed_ok": false,
+    "rag_ok": true,
+    "public_leak": false,
+    "public_refused": false
+   },
+   {
+    "q": "What is ABARES forecasting for Australia's winter crop production in 2026-27, and how does it compare with the 10-year average?",
+    "closed": "ABARES (Australian Bureau of Agricultural and Resource Economics and Sciences) forecasts for Australia's winter crop production in 2026-27 are not yet officially released as of early 2024. However, based on current conditions and historical trends, the forecast is expected to be slightly below the 10-year average, primarily due to anticipated lower rainfall and potential drought conditions in key growing regions such as New South Wales and Victoria. For the most accurate and up-to-date information, it is recommended to check the latest ABARES report or release.",
+    "rag": "ABARES forecasts Australia's winter crop production for 2026\u201327 to fall by 12% to 61 million tonnes, which is 16% above the 10-year average to 2025\u201326 [1]. This forecast reflects better than expected conditions in most southern cropping regions [2].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "How much barley is Western Australia expected to produce in 2026-27?",
+    "closed": "As of the latest available data, Western Australia's expected barley production for the 2026-27 season is projected to be around 12.5 million tonnes. This estimate is based on current crop conditions, weather forecasts, and industry reports. For the most accurate and up-to-date information, it is recommended to consult official sources such as the Department of Primary Industries and Regional Development (DPIRD) in Western Australia.",
+    "rag": "Western Australia is expected to produce 6,800 thousand hectares of barley in 2026\u201327 [5]. However, the production change is forecast to be 10.5% [5]. The exact tonnage is not provided in the sources.",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What is the salary of the ABARES Executive Director?",
+    "closed": "I don't have access to specific salary information for the ABARES Executive Director. For the most accurate and up-to-date details, you may need to consult official sources or contact ABARES directly.",
+    "rag": "I can't find that in the documents I have access to.",
+    "public": null,
+    "unanswerable": true,
+    "access": null,
+    "closed_ok": true,
+    "rag_ok": true
+   },
+   {
+    "q": "What is ABARES' forecast for rice production in Japan in 2026?",
+    "closed": "As of my last update in July 2024, I don't have specific information on ABARES' (Australian Bureau of Agricultural and Resource Economics and Sciences) forecast for rice production in Japan for 2026. ABARES primarily focuses on Australia, though it may provide global agricultural outlooks. For Japan-specific forecasts, you would need to consult Japanese agricultural authorities or organizations like the Japanese Ministry of Agriculture, Forestry and Fisheries (MAFF).",
+    "rag": "I can't find that in the documents I have access to.",
+    "public": null,
+    "unanswerable": true,
+    "access": null,
+    "closed_ok": true,
+    "rag_ok": true
+   },
+   {
+    "q": "How many hectares of wheat will my neighbour plant next year?",
+    "closed": "I don't have access to information about your neighbor's farming plans or decisions. You would need to ask your neighbor directly or check local agricultural reports if available.",
+    "rag": "I can't find that in the documents I have access to.",
+    "public": null,
+    "unanswerable": true,
+    "access": null,
+    "closed_ok": true,
+    "rag_ok": true
+   },
+   {
+    "q": "What did the December 2027 Australian Crop Report forecast for wheat?",
+    "closed": "As of my knowledge cutoff in July 2024, there is no publicly available forecast from the December 2027 Australian Crop Report, as that report has not yet been released. For the most accurate and up-to-date information, please consult official sources such as the Australian Bureau of Agricultural and Resource Economics and Statistics (ABARES).",
+    "rag": "The December 2027 Australian Crop Report is not mentioned in the provided sources. However, based on the September 2026 report [3], wheat production for 2026\u201327 is forecast to fall by 17% to 29.9 million tonnes, 3% above the 10-year average to 2025\u201326. This forecast reflects an 11% decrease in the area planted. The most recent forecast available is from September 2026, and there is no information provided about a December 2027 report.",
+    "public": null,
+    "unanswerable": true,
+    "access": null,
+    "closed_ok": false,
+    "rag_ok": true
+   }
+  ]
+ },
+ "Qwen3-14B": {
+  "closed_correct": 0.091,
+  "rag_correct": 1.0,
+  "closed_refusal": 0.25,
+  "rag_refusal": 1.0,
+  "public_leaks": 0,
+  "protected_questions": 5,
+  "seconds": 241.6,
+  "rows": [
+   {
+    "q": "What is ABARES' September 2026 forecast for Australia's national winter crop production in 2026-27?",
+    "closed": "As of my knowledge cutoff in October 2023, there is no available information regarding ABARES' (Australian Bureau of Agricultural and Resource Economics and Sciences) September 2026 forecast for Australia's national winter crop production in the 2026-27 season. Forecasts for such a distant future are not typically published in advance, and ABARES usually releases its seasonal crop forecasts closer to the relevant timeframes, based on current conditions and modeling. For the most accurate and up-to-date information, you should check ABARES' official website or publications closer to September 2026.",
+    "rag": "ABARES' September 2026 forecast for Australia's national winter crop production in 2026-27 is 61 million tonnes, which is a 12% decrease from the previous season [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "How does the 2026-27 national winter crop forecast compare with the 10-year average?",
+    "closed": "As of my last update in July 2024, specific details about the 2026-27 national winter crop forecast are not available. For the most accurate and up-to-date comparison with the 10-year average, I recommend checking the latest reports from agricultural departments or organizations like the USDA or relevant national agricultural statistics bodies.",
+    "rag": "The 2026\u201327 national winter crop production is forecast to fall by 12% compared to the previous year but is still 16% above the 10-year average to 2025\u201326 [1]. This would make it the fourth largest crop on record if realised [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "How much wheat is Australia forecast to produce in 2026-27?",
+    "closed": "As of now, there is no official forecast for Australia's wheat production in the 2026-27 season. Forecasts are typically made closer to the time, based on factors like planting intentions, weather conditions, and soil moisture. For the most accurate and up-to-date information, you should check reports from the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) or the Department of Agriculture, Fisheries and Forestry (DAFF) as the season approaches.",
+    "rag": "Australia is forecast to produce 29.9 million tonnes of wheat in 2026-27 [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What is the 2026-27 forecast for Australian barley production?",
+    "closed": "As of the latest available data up to 2023, specific forecasts for the 2026-27 Australian barley production were not publicly available. However, projections often depend on factors like climate conditions, water availability, and agricultural policies. For the most accurate and up-to-date forecast, consult reports from the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) or the Department of Agriculture, Fisheries and Forestry (DAFF).",
+    "rag": "The 2026-27 forecast for Australian barley production is a decrease by 3% to 16.4 million tonnes [1]. This is the second highest production on record [3]. The forecast decrease in production is being driven by lower yields offsetting an increase in area planted [3]. The area planted to barley is estimated to have increased by 6% to 5.1 million hectares in 2026\u201327 [5].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What is the forecast for canola production in 2026-27?",
+    "closed": "As of my knowledge cutoff in July 2024, there is no official forecast available for canola production in the 2026-27 period. Forecasts for such a distant future are highly speculative and depend on numerous factors like weather, market conditions, government policies, and technological advancements. For the most accurate and up-to-date projections, you would need to consult agricultural research institutions, industry reports, or government agricultural departments closer to that timeframe.",
+    "rag": "The forecast for canola production in 2026-27 is as follows:\n- Global canola production is expected to increase by 3% to 98 million tonnes [1].\n- Canadian canola production is forecast to increase by 2% to a record of 22.5 million tonnes [1].\n- Ukrainian canola production is forecast to increase by 25% to 4.4 million tonnes [1].\n- Australian canola production is forecast to fall by 5% to 7.3 million tonnes [4].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What lentil production is forecast for 2026-27?",
+    "closed": "As of my last update in July 2024, there is no official forecast specifically for lentil production in the 2026-27 period. Forecasts for agricultural production, including lentils, are typically released by agricultural organizations, governments, or research institutions closer to the relevant time frame. For the most accurate and up-to-date information, I recommend checking reports from organizations like the Food and Agriculture Organization (FAO), the United States Department of Agriculture (USDA), or national agricultural departments.",
+    "rag": "Lentil production is forecast to increase by 5% to a second consecutive record of 2.3 million tonnes in 2026\u201327 [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What is Western Australia's winter crop production forecast for 2026-27?",
+    "closed": "As of now, there is no official forecast available for Western Australia's winter crop production for the 2026-27 season. Forecasts are typically released closer to the planting season, based on factors like soil moisture, rainfall outlooks, and seasonal conditions. For the most accurate and up-to-date information, you should check reports from the Department of Primary Industries and Regional Development (DPIRD) or the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES).",
+    "rag": "Western Australia's winter crop production is forecast to decrease by 16% to 22.8 million tonnes in 2026\u201327 [1]. This forecast represents a 6% upward revision from the June 2026 Australian Crop Report and is now 18% above the 10-year average [1]. The forecast year-on-year decrease in production is largely attributable to lower yields, due to lower rainfall, particularly in the Albany and southern Kwinana regions [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "Why is Western Australia's winter crop expected to be smaller in 2026-27 than the year before?",
+    "closed": "The expected smaller winter crop in Western Australia for 2026-27 compared to the previous year is likely due to a combination of factors including below-average rainfall, higher temperatures, and potential impacts from climate variability such as El Ni\u00f1o conditions, which can lead to drier than normal weather patterns in the region. These conditions can negatively affect crop growth and yield.",
+    "rag": "Western Australia's winter crop is expected to be smaller in 2026-27 than the year before due to lower yields, primarily caused by lower rainfall, particularly in the Albany and southern Kwinana regions [1]. Additionally, a drier rainfall outlook for September across Western Australia is expected to impact current yield potential, with yields expected to ease to marginally below the average [1]. Below average July rainfall in Western Australia has also placed crops under some moisture stress, with most regions receiving just enough rainfall to maintain growth [2].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": true,
+    "rag_ok": true
+   },
+   {
+    "q": "What is the forecast for national summer crop production in 2026-27?",
+    "closed": "As of now, there is no official forecast available for national summer crop production in 2026-27. Forecasts typically depend on factors like weather patterns, soil conditions, government policies, and market trends, which are subject to change. For the most accurate and up-to-date information, you should refer to agricultural reports from government agencies or agricultural research institutions closer to that time.",
+    "rag": "The forecast for national summer crop production in 2026\u201327 is a 25% decrease to 3.4 million tonnes, which is 11% below the 10-year average to 2025\u201326 [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "In September 2025, what did ABARES forecast for national winter crop production in 2025-26?",
+    "closed": "As of my knowledge cutoff in July 2024, I don't have specific information on ABARES' September 2025 forecast for national winter crop production in 2025-26. For the most accurate and up-to-date forecast, I recommend checking ABARES' official reports or website after September 2025.",
+    "rag": "In September 2025, ABARES forecasted that national winter crop production in 2025-26 would increase by 2% to 62 million tonnes, which would be the third largest crop on record [6].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What is the forecast gross value of agricultural production in 2026-27?",
+    "closed": "As of my knowledge cutoff in July 2024, there is no official or widely reported forecast for the gross value of agricultural production for the 2026-27 period. Forecasts for such economic indicators typically depend on factors like weather, commodity prices, policy changes, and global market conditions, which are subject to change. For the most accurate and up-to-date forecast, you should consult recent reports from agricultural departments, economic research institutions, or international organizations like the Food and Agriculture Organization (FAO) or the World Bank.",
+    "rag": "The forecast gross value of agricultural production in 2026-27 is $99.4 billion [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What is the forecast value of Australian agricultural exports in 2026-27?",
+    "closed": "As of the latest available data up to 2023, specific forecast values for Australian agricultural exports in 2026-27 are not publicly available. However, based on trends and reports from organizations like the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES), agricultural exports are expected to continue growing, driven by demand from key markets such as China, Southeast Asia, and the Middle East. For precise forecasts, you would need to refer to the most recent economic or agricultural outlook reports from ABARES or the Australian government.",
+    "rag": "The forecast value of Australian agricultural exports in 2026-27 is $76.3 billion, which is a 5% decrease from previous estimates [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What share of Australia's water consumption is used by agriculture, fisheries and forestry?",
+    "closed": "Agriculture, fisheries, and forestry account for about 70% of Australia's water consumption.",
+    "rag": "Agriculture, fisheries, and forestry account for 68.3% of water consumption in Australia, which amounted to 11,760 gigalitres in 2023-24 [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "How many broadacre and dairy farm businesses were there in Australia in 2023-24?",
+    "closed": "As of 2023-24, there were approximately 49,000 broadacre and dairy farm businesses in Australia. This figure includes both broadacre farms (which focus on crops and livestock such as sheep and cattle) and dairy farms. The exact number may vary slightly depending on the source and the specific definitions used.",
+    "rag": "In 2023\u201324, there were an estimated 53,400 broadacre and dairy farm businesses in Australia, with 62% classified as livestock farms, 30% cropping farms, and 8% dairy farms [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "By how much did the gross value of agricultural, fisheries and forestry production grow in real terms over the past 20 years?",
+    "closed": "The gross value of agricultural, fisheries, and forestry production has grown by approximately **120% in real terms** over the past 20 years, according to data from the Food and Agriculture Organization (FAO) and other international sources. However, the exact growth rate can vary depending on the region and the specific time period considered.",
+    "rag": "The gross value of agricultural, fisheries and forestry production grew by 45% in real terms over the past 20 years, increasing from $69.3 billion in 2004\u201305 to $100.3 billion in 2024\u201325 [1].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What was average broadacre farm cash income in 2024-25?",
+    "closed": "As of my knowledge cutoff in July 2024, specific figures for the average broadacre farm cash income for the 2024-25 financial year have not been officially released. These figures are typically published by government agricultural departments or organizations like the Australian Bureau of Statistics (ABS) later in the year. For the most accurate and up-to-date information, I recommend checking official sources once the data is available.",
+    "rag": "The average broadacre farm cash income in 2024\u201325 is estimated to have increased by 38% to $266,000 per farm [1].",
+    "public": "The average broadacre farm cash income in 2024-25 was $349,000 [1].",
+    "unanswerable": false,
+    "access": "internal",
+    "closed_ok": false,
+    "rag_ok": true,
+    "public_leak": false,
+    "public_refused": false
+   },
+   {
+    "q": "What was the total value of outstanding loans and leases to the Australian farm sector at 30 June 2025?",
+    "closed": "I don't have access to the specific data for the total value of outstanding loans and leases to the Australian farm sector as of 30 June 2025. This information would typically be published by financial institutions, agricultural departments, or organizations like the Australian Bureau of Statistics (ABS) or the Reserve Bank of Australia (RBA). You may need to consult the latest reports or contact relevant authorities for this figure.",
+    "rag": "The total value of outstanding loans and leases to the Australian farm sector at 30 June 2025 was $142.5 billion [1].",
+    "public": "I can't find that in the documents I have access to.",
+    "unanswerable": false,
+    "access": "internal",
+    "closed_ok": false,
+    "rag_ok": true,
+    "public_leak": false,
+    "public_refused": true
+   },
+   {
+    "q": "How many new farm loan foreclosures were there in 2024-25?",
+    "closed": "As of my knowledge cutoff in July 2024, there is no official data available for the number of new farm loan foreclosures in the 2024-25 fiscal year. This information is typically released by government agencies like the USDA's Farm Service Agency (FSA) after the fiscal year ends. You may want to check the latest reports from the USDA or other relevant agricultural agencies for updated figures.",
+    "rag": "There were 122 new farm loan foreclosures in 2024\u201325 [1].",
+    "public": "I can't find that in the documents I have access to.",
+    "unanswerable": false,
+    "access": "internal",
+    "closed_ok": false,
+    "rag_ok": true,
+    "public_leak": false,
+    "public_refused": true
+   },
+   {
+    "q": "How much has winter rainfall declined in south-western Australia since 1970?",
+    "closed": "Winter rainfall in south-western Australia has declined by approximately 15-20% since 1970, with significant reductions observed in recent decades due to climate change and shifting weather patterns.",
+    "rag": "Winter rainfall in south-western Australia has declined by 20% since 1970 [1].",
+    "public": "I can't find that in the documents I have access to.",
+    "unanswerable": false,
+    "access": "restricted",
+    "closed_ok": true,
+    "rag_ok": true,
+    "public_leak": false,
+    "public_refused": true
+   },
+   {
+    "q": "Since 2000, how has the risk of very low farm returns changed compared with 1950 to 2000?",
+    "closed": "Since 2000, the risk of very low farm returns has generally decreased compared to the period from 1950 to 2000. This is due to factors such as improved technology, better access to markets, government support programs, and more stable global commodity prices. However, recent years have seen increased volatility due to climate change, trade tensions, and other economic factors.",
+    "rag": "Since 2000, the risk of very low farm returns has essentially doubled compared with the period from 1950 to 2000, increasing from a 1 in 10 frequency to more than 1 in 5 [2].",
+    "public": "Since 2001 to 2023, changes in seasonal conditions relative to 1951 to 2000 have reduced annual average broadacre farm profits by 18%, or around $28,500 per farm [1]. This indicates that the risk of very low farm returns has increased due to climate variability over this period.",
+    "unanswerable": false,
+    "access": "restricted",
+    "closed_ok": false,
+    "rag_ok": true,
+    "public_leak": false,
+    "public_refused": false
+   },
+   {
+    "q": "What is ABARES forecasting for Australia's winter crop production in 2026-27, and how does it compare with the 10-year average?",
+    "closed": "As of my knowledge cutoff in July 2024, ABARES (Australian Bureau of Agricultural and Resource Economics and Sciences) had not yet released specific forecasts for Australia's winter crop production for the 2026-27 season. Forecasts for such a distant period are typically not available at that time, as they depend on future climate conditions, policy changes, and other variables that are difficult to predict.\n\nFor the most accurate and up-to-date information, I recommend checking ABARES' official website or their latest agricultural outlook reports closer to the 2026-27 season.",
+    "rag": "ABARES is forecasting Australia's winter crop production to fall by 12% in 2026-27 to 61 million tonnes [1]. This forecast is 16% above the 10-year average to 2025-26 [1]. However, an earlier report from June 2026 forecast a 21% decline to 54.5 million tonnes, which was 4% above the 10-year average [4]. The most recent forecast from September 2026 is preferred as it is the latest available.",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "How much barley is Western Australia expected to produce in 2026-27?",
+    "closed": "As of now, there are no official forecasts for Western Australia's barley production for the 2026-27 season. Production estimates are typically released closer to the harvest period, usually around mid-2027, based on planting intentions, weather conditions, and crop progress. For the most accurate and up-to-date information, you should refer to reports from the Australian Bureau of Statistics (ABS) or the Department of Primary Industries and Regional Development (DPIRD) in Western Australia.",
+    "rag": "Western Australia is expected to produce 6,800 thousand tonnes of barley in 2026-27 [5].",
+    "public": null,
+    "unanswerable": false,
+    "access": "public",
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What is the salary of the ABARES Executive Director?",
+    "closed": "The salary of the ABARES (Australian Bureau of Agricultural and Resource Economics and Sciences) Executive Director is not publicly disclosed in detail. However, it is typically in the range of AUD $200,000 to $300,000 per year, depending on experience and responsibilities. For precise figures, you would need to refer to official government pay scales or contact ABARES directly.",
+    "rag": "I can't find that in the documents I have access to.",
+    "public": null,
+    "unanswerable": true,
+    "access": null,
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "What is ABARES' forecast for rice production in Japan in 2026?",
+    "closed": "As of my knowledge cutoff in July 2024, there is no specific public forecast from ABARES (Australian Bureau of Agricultural and Resource Economics and Sciences) for rice production in Japan in 2026. ABARES typically focuses on Australian and global agricultural data, not specifically on Japan's rice production. For detailed forecasts on Japan's rice production, you may need to consult Japanese agricultural agencies or international organizations like the FAO.",
+    "rag": "I can't find that in the documents I have access to.",
+    "public": null,
+    "unanswerable": true,
+    "access": null,
+    "closed_ok": false,
+    "rag_ok": true
+   },
+   {
+    "q": "How many hectares of wheat will my neighbour plant next year?",
+    "closed": "I don't have access to specific information about your neighbour's farming plans. You may need to ask them directly or check local agricultural records if available.",
+    "rag": "I can't find that in the documents I have access to.",
+    "public": null,
+    "unanswerable": true,
+    "access": null,
+    "closed_ok": true,
+    "rag_ok": true
+   },
+   {
+    "q": "What did the December 2027 Australian Crop Report forecast for wheat?",
+    "closed": "As of now, there is no official December 2027 Australian Crop Report, as we are still in 2024. If you're referring to a forecast or report from a future date, it would not be available yet. For the most recent wheat crop forecasts, you may want to check the latest reports from the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) or the Department of Agriculture, Fisheries and Forestry (DAFF).",
+    "rag": "I can't find that in the documents I have access to.",
+    "public": null,
+    "unanswerable": true,
+    "access": null,
+    "closed_ok": false,
+    "rag_ok": true
+   }
+  ]
+ }
+}

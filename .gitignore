@@ -1,0 +1,13 @@
+data/pdfs/*.pdf
+data/index/
+data/chunks.jsonl
+data/audit_log.jsonl
+voice/
+video/
+episode.py
+__pycache__/
+*.pyc
+.venv/
+results/_*.png
+data/index_noheader/
+data/app_server.log

@@ -1,0 +1,253 @@
+[
+ {
+  "q": "What is ABARES' September 2026 forecast for Australia's national winter crop production in 2026-27?",
+  "must": [
+   [
+    "61 million"
+   ]
+  ],
+  "gold": "abares_crop_report_2026-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "How does the 2026-27 national winter crop forecast compare with the 10-year average?",
+  "must": [
+   [
+    "16%",
+    "16 per cent"
+   ]
+  ],
+  "gold": "abares_crop_report_2026-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "How much wheat is Australia forecast to produce in 2026-27?",
+  "must": [
+   [
+    "29.9 million"
+   ]
+  ],
+  "gold": "abares_crop_report_2026-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "What is the 2026-27 forecast for Australian barley production?",
+  "must": [
+   [
+    "16.4 million"
+   ]
+  ],
+  "gold": "abares_crop_report_2026-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "What is the forecast for canola production in 2026-27?",
+  "must": [
+   [
+    "7.3 million"
+   ]
+  ],
+  "gold": "abares_crop_report_2026-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "What lentil production is forecast for 2026-27?",
+  "must": [
+   [
+    "2.3 million"
+   ]
+  ],
+  "gold": "abares_crop_report_2026-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "What is Western Australia's winter crop production forecast for 2026-27?",
+  "must": [
+   [
+    "22.8 million"
+   ]
+  ],
+  "gold": "abares_crop_report_2026-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "Why is Western Australia's winter crop expected to be smaller in 2026-27 than the year before?",
+  "must": [
+   [
+    "rainfall",
+    "yields"
+   ]
+  ],
+  "gold": "abares_crop_report_2026-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "What is the forecast for national summer crop production in 2026-27?",
+  "must": [
+   [
+    "3.4 million"
+   ]
+  ],
+  "gold": "abares_crop_report_2026-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "In September 2025, what did ABARES forecast for national winter crop production in 2025-26?",
+  "must": [
+   [
+    "62 million"
+   ]
+  ],
+  "gold": "abares_crop_report_2025-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "What is the forecast gross value of agricultural production in 2026-27?",
+  "must": [
+   [
+    "99.4 billion"
+   ]
+  ],
+  "gold": "abares_ag_commodities_2026-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "What is the forecast value of Australian agricultural exports in 2026-27?",
+  "must": [
+   [
+    "76.3 billion"
+   ]
+  ],
+  "gold": "abares_ag_commodities_2026-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "What share of Australia's water consumption is used by agriculture, fisheries and forestry?",
+  "must": [
+   [
+    "68.3"
+   ]
+  ],
+  "gold": "abares_snapshot_ag_2026.pdf",
+  "access": "public"
+ },
+ {
+  "q": "How many broadacre and dairy farm businesses were there in Australia in 2023-24?",
+  "must": [
+   [
+    "53,400",
+    "53 400",
+    "53400"
+   ]
+  ],
+  "gold": "abares_snapshot_ag_2026.pdf",
+  "access": "public"
+ },
+ {
+  "q": "By how much did the gross value of agricultural, fisheries and forestry production grow in real terms over the past 20 years?",
+  "must": [
+   [
+    "45%",
+    "45 per cent"
+   ]
+  ],
+  "gold": "abares_snapshot_ag_2026.pdf",
+  "access": "public"
+ },
+ {
+  "q": "What was average broadacre farm cash income in 2024-25?",
+  "must": [
+   [
+    "266,000",
+    "266 000",
+    "266000"
+   ]
+  ],
+  "gold": "abares_farm_financial_performance_2026-06.pdf",
+  "access": "internal"
+ },
+ {
+  "q": "What was the total value of outstanding loans and leases to the Australian farm sector at 30 June 2025?",
+  "must": [
+   [
+    "142.5 billion"
+   ]
+  ],
+  "gold": "abares_agricultural_lending_2024-25.pdf",
+  "access": "internal"
+ },
+ {
+  "q": "How many new farm loan foreclosures were there in 2024-25?",
+  "must": [
+   [
+    "122"
+   ]
+  ],
+  "gold": "abares_agricultural_lending_2024-25.pdf",
+  "access": "internal"
+ },
+ {
+  "q": "How much has winter rainfall declined in south-western Australia since 1970?",
+  "must": [
+   [
+    "20%",
+    "20 per cent"
+   ]
+  ],
+  "gold": "abares_climate_change_impacts_adaptation_farms.pdf",
+  "access": "restricted"
+ },
+ {
+  "q": "Since 2000, how has the risk of very low farm returns changed compared with 1950 to 2000?",
+  "must": [
+   [
+    "doubled",
+    "1 in 5"
+   ]
+  ],
+  "gold": "abares_climate_change_impacts_adaptation_farms.pdf",
+  "access": "restricted"
+ },
+ {
+  "q": "What is ABARES forecasting for Australia's winter crop production in 2026-27, and how does it compare with the 10-year average?",
+  "must": [
+   [
+    "61 million"
+   ],
+   [
+    "16%",
+    "16 per cent"
+   ]
+  ],
+  "gold": "abares_crop_report_2026-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "How much barley is Western Australia expected to produce in 2026-27?",
+  "must": [
+   [
+    "6,800",
+    "6800",
+    "6.8 million"
+   ]
+  ],
+  "gold": "abares_crop_report_2026-09.pdf",
+  "access": "public"
+ },
+ {
+  "q": "What is the salary of the ABARES Executive Director?",
+  "unanswerable": true
+ },
+ {
+  "q": "What is ABARES' forecast for rice production in Japan in 2026?",
+  "unanswerable": true
+ },
+ {
+  "q": "How many hectares of wheat will my neighbour plant next year?",
+  "unanswerable": true
+ },
+ {
+  "q": "What did the December 2027 Australian Crop Report forecast for wheat?",
+  "unanswerable": true
+ }
+]
