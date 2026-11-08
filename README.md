@@ -2,7 +2,7 @@
 
 Code, evaluation set and step-by-step guide for the **GeoAI Lab** lecture (Series 2, episode 1).
 
-* **Video:** on the [GeoAI Lab YouTube channel](https://www.youtube.com/channel/UC_HGuLPYUpp3s9LMVaDIX0A) (link added on release)
+* **Video:** [RAG and Vector Databases: Build a Private AI Assistant for Your Organisation's Documents](https://youtu.be/QGgdQjl7YRw) on the [GeoAI Lab YouTube channel](https://www.youtube.com/channel/UC_HGuLPYUpp3s9LMVaDIX0A)
 * **Step-by-step guide:** [`STEP_BY_STEP.md`](STEP_BY_STEP.md)
 * **Accuracy report:** [`RAG_ACCURACY_REPORT.md`](RAG_ACCURACY_REPORT.md)
 
